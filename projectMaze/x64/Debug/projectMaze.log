@@ -1,0 +1,7 @@
+﻿  Maze.cpp
+C:\Users\harne\source\repos\projectMaze\projectMaze\Maze.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\harne\source\repos\projectMaze\projectMaze\Maze.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\harne\source\repos\projectMaze\projectMaze\Maze.cpp(24,11): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\harne\source\repos\projectMaze\projectMaze\Maze.cpp(28,11): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\harne\source\repos\projectMaze\projectMaze\Maze.cpp(30,10): warning C4305: 'return': truncation from 'int' to 'bool'
+  projectMaze.vcxproj -> C:\Users\harne\source\repos\projectMaze\x64\Debug\projectMaze.exe
